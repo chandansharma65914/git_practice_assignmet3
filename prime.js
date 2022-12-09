@@ -4,7 +4,7 @@
         count++;
     }
    }
-   if(count==10){                            //put 2 at the place of 10
+   if(count==2){                            //put 2 at the place of 10
     console.log("Prime")
    }else{
     console.log("Not Prime")
